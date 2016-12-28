@@ -1,3 +1,6 @@
 [submodule ".vim"]
 	path = .vim
 	url = git@github.com:fslts/vimfiles.git
+[submodule ".config/awesome/vicious"]
+	path = .config/awesome/vicious
+	url = http://git.sysphere.org/vicious/
